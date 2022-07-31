@@ -4,5 +4,4 @@ draft/*
 
 !/active/.gitkeep
 !/archive/ 
-!/draft/example.md
-!/draft/charge-lnd.example.config
+!/draft/*.example.*
