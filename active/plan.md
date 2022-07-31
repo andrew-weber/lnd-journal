@@ -1,3 +1,4 @@
+# 07.31.22-20:30:18 
 # Plan
 
 ## Goal
@@ -36,4 +37,4 @@ iterativeRebalance = (goodChannel, badChannel, amount) => {
 
 ## Fees
 
-Move WoS & LND-11 to fixed `fee_pmm=344`
+Move WoS & LND-11 to fixed `fee_pmm=369`
