@@ -1,3 +1,7 @@
-/active/**
-/archive/**
-/draft/**
+active/*
+archive/**
+draft/*
+
+!/active/.gitkeep 
+!/archive/.gitkeep 
+!/draft/.gitkeep 
