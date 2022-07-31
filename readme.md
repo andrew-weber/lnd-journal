@@ -2,7 +2,7 @@
 
 `lnd-journal` is a tool used to document changes to your LND config.
 
-This is only being tested on Umbrel
+_This has only been tested on Umbrel_
 
 ## Commands
 
