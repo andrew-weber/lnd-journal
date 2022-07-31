@@ -12,6 +12,10 @@ Promotes the current contents of the `draft` diretory to `active`, and creates a
 
 ## Setup
 
+```
+npm install -g yarn
+```
+
 ### Plan
 
 Update `plan.md` to explain your changes in the `/draft` diretory.
