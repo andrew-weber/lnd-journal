@@ -14,8 +14,14 @@ Promotes the current contents of the `draft` diretory to `active`, and creates a
 
 ### charge-lnd
 
-Add to `crontab`
+1. Create `charge-lnd.config` in `/draft`
+
+2. Edit `charge-lnd.config`
+
+3. `yarn promote`
+
+4. Add `chargel-lnd` to `crontab`
 
 ```
-charge-lnd c ~/lnd-journal/active/charge-lnd.config ...
+* * * * * ~/charge-lnd c ~/lnd-journal/active/charge-lnd.config ...
 ```
