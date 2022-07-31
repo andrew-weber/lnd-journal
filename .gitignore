@@ -2,6 +2,7 @@ active/*
 archive/**
 draft/*
 
-!/active/.gitkeep 
-!/archive/.gitkeep 
-!/draft/.gitkeep 
+!/active/.gitkeep
+!/archive/ 
+!/draft/example.md
+!/draft/charge-lnd.example.config
