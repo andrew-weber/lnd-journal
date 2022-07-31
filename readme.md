@@ -12,6 +12,10 @@ Promotes the current contents of the `draft` diretory to `active`, and creates a
 
 ## Setup
 
+### Plan
+
+Update `plan.md` to explain your changes in the `/draft` diretory.
+
 ### charge-lnd
 
 1. Create `charge-lnd.config` in `/draft`
