@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "promote": "./promote-draft.sh"
+    "promote": "./src/promote-draft.sh",
+    "rebalance:draft": "./draft/rebalance.sh"
   }
 }
